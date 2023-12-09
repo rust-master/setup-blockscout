@@ -1,4 +1,4 @@
-# Setup & Run Blockscout Explorer on your Network with (Docker Approach)
+## Setup & Run Blockscout Explorer on your Network with (Docker Approach)
 
 ### Pre-requisites:
 - Required the RPC and Websocket URLs of the Network
